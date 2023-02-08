@@ -6,6 +6,12 @@ desenvolvido com intuito de aprimorar as habilidades com o `Docker`
 
 ## Técnologias usadas
 
+Back-end:
+> Node.js
+
+Front-end:
+> JavaScript, React, HTML, CSS
+
 Softwares:
 > Desenvolvido usando: Docker
 
