@@ -16,17 +16,13 @@ Softwares:
 
 - Acesse a pasta `./todo-app/back-end`;
 - Instalar a aplicação utilizando o comando `npm install`;
-- O processo não deve retornar erros. `Warns` *(Avisos)* não impedem seu funcionamento;
-- Rodar a aplicação com `npm start`;
 - Por padrão, essa aplicação funciona a partir da porta `3001`;
 
 ###### Instalando o front-end
 
 - Acesse a pasta `./todo-app/front-end`;
 - Instalar a aplicação utilizando o comando `npm install`;
-- O processo não deve retornar erros. `Warns` *(Avisos)* não impedem seu funcionamento;
-- Rodar a aplicação com `npm start`;
-- Esse aplicativo requer, **excepcionalmente**, um arquivo `.env`, já contido em sua pasta no repositório;
+- Esse aplicativo requer, **excepcionalmente**, um arquivo `.env` com as variaveis de ambiente;
 - Por padrão, essa aplicação funciona a partir da porta `3000`;
 - Essa aplicação pode receber variáveis de ambiente para mudar o acesso do `back-end`:
   - `REACT_APP_API_HOST`: padrão `localhost`;
@@ -39,12 +35,12 @@ Softwares:
 * Para rodar o back-end:
 
   ```
-  cd api/ && npm start
+  cd docker/todo-app/back-end && npm start
   ```
 * Para rodar o front-end:
 
   ```
-    cd src/ && npm start
+    cd docker/todo-app/front-end && npm start
   ```
 
 ## Executando Testes
