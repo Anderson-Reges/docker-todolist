@@ -48,5 +48,5 @@ Softwares:
 * Para rodar todos os testes:
 
   ```
-    npm test
+   cd docker/todo-app/front-end && npm test
   ```
