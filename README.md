@@ -2,7 +2,9 @@
 
 # <strong><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> O que foi desenvolvido:
 Este projeto trata-se de um projeto para criação de um ambiente de desenvolvimento de front-end com back-end utilizando o `Docker`,
-desenvolvido com intuito de aprimorar as habilidades com o `Docker`
+desenvolvido com intuito de aprimorar as habilidades com o `Docker`.
+
+:warning:Atenção:warning: A parte do Front-end e do Back-end foi desenvolvido pela Trybe para auxilio dos requisitos, o foco do desenvolvimento aqui foi aprender a utilização do Docker
 
 ## Técnologias usadas
 
