@@ -4,7 +4,7 @@
 Este projeto trata-se de um projeto para criação de um ambiente de desenvolvimento de front-end com back-end utilizando o `Docker`,
 desenvolvido com intuito de aprimorar as habilidades com o `Docker`.
 
-:warning:Atenção:warning: A parte do Front-end e do Back-end foi desenvolvido pela Trybe para auxilio dos requisitos, o foco do desenvolvimento aqui foi aprender a utilização do Docker
+:warning:Atenção:warning:: A parte do Front-end e do Back-end foi desenvolvido pela Trybe para auxilio dos requisitos, o foco do desenvolvimento aqui foi aprender a utilização do Docker
 
 ## Técnologias usadas
 
